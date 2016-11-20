@@ -259,6 +259,15 @@ local _keys = {
 	'454841585443',
 
 	--[[
+	Data from: http://phreakerclub.com/forum/showthread.php?p=41266
+	--]]
+	'26973ea74321', 
+	'71f3a315ad26', 
+	'51044efb5aab',
+	'ac70ca327a04',
+	'eb0a8ff88ade',
+	
+	--[[
 	Data from: http://pastebin.com/gQ6nk38G
 	--]]
 	'A0A1A2A3A4A5', 
@@ -340,9 +349,8 @@ local _keys = {
 	'd8a274b2e026', 
 	'b20b83cb145c', 
 	'9afa6cb4fc3d',
-	--[[
-	Data from:  http://pastebin.com/RRJUEDCM
-	
+	--[[	
+	Data from:  http://pastebin.com/RRJUEDCM	
 	--]]
 	'0d258fe90296',
 	'e55a3ca71826',
@@ -356,6 +364,51 @@ local _keys = {
 	'1acc3189578c',
 	'c2b7ec7d4eb1',
 	'369a4663acd2',	
+	--[[	
+	Data from:  https://github.com/zhangjingye03/zxcardumper
+	zxcard Key A/B
+	--]]
+	'668770666644',
+	'003003003003',
+	--[[
+	Data from: https://github.com/RadioWar/NFCGUI
+	--]]
+	'44dd5a385aaf',
+	'21a600056cb0',
+	'b1aca33180a5',
+	'dd61eb6bce22',
+	'1565a172770f',
+	'3e84d2612e2a',
+	'f23442436765',
+	'79674f96c771',
+	'87df99d496cb',
+	'c5132c8980bc',
+	'a21680c27773',
+	'f26e21edcee2',
+	'675557ecc92e',
+	'f4396e468114',
+	'6db17c16b35b',
+	'4186562a5bb2',
+	'2feae851c199',
+	'db1a3338b2eb',
+	'157b10d84c6b',
+	'a643f952ea57',
+	'df37dcb6afb3',
+	'4c32baf326e0',
+	'91ce16c07ac5',
+	'3c5d1c2bcd18',
+	'c3f19ec592a2',
+	'f72a29005459',
+	'185fa3438949',
+	'321a695bd266',
+	'd327083a60a7',
+	'45635ef66ef3',
+	'5481986d2d62',
+	'cba6ae869ad5',
+	'645a166b1eeb',
+	'a7abbc77cc9e',
+	'f792c4c76a5c',
+	'bfb6796a11db',
 }
 
 ---
