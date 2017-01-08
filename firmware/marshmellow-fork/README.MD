@@ -1,6 +1,6 @@
 <pre>
 Marshmellow Fork
 https://github.com/marshmellow42/proxmark3
-Compiled on 9-26-2016
-Commit: fc249a8e13faa79023f32fb0fe1ddde62d9cc94f
+Compiled on 01-08-2017
+Commit: 89696b8b24c0913fa7597f93a27da9bd2a57f3b5
 </pre>
